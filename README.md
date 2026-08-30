@@ -37,7 +37,7 @@ Copy the encrypted message below:
 ### 💡 General Projects
 | Project Name | Short Summary | Tech Stack | Code | View |
 | :--- | :--- | :---: | :---: | :---: |
-| 🎮 프로젝트 제목 1 | 개발한 기능이나 설명 요약 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | [📁](#) | [📝](#) |
+| 🎮 파일업로드 실시간 모니터링 및 자동화 차단 시스탬 개발  | 파일업로드 실시간으로 모니터링하고 악의적인 확장자 (exe, php) 등 허용되지 않는 확장자 검증하여 자동화 차단 시스템 개발하게 된 계기 : 파일업로드에 악의적인 파일을 업로드 하여 데이터를 추출할려는 것을 방지하기 위함 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | [📁](https://github.com/Rookie-W-hacker/File-upload-monitoring-and-automated-blocking) | [📝](#) |
 
 ---
 

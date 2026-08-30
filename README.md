@@ -60,8 +60,5 @@ Copy the encrypted message below:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <!-- username= 본인 GitHub ID로 변경하세요 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rookie-W-hacker&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-W-hacker&layout=compact&theme=dark" height="150">
-</div>
+![Rookie-W-hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rookie-W-hacker&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-W-hacker&layout=compact&theme=dark)

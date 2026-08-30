@@ -45,20 +45,18 @@ Copy the encrypted message below:
 
 | Title | Summary | Tech Stack | View |
 | :--- | :--- | :---: | :---: |
-| - | <img src=> | [📝](#) |
-
----
+| - | 분석 및 연구 내용을 준비 중입니다. | - | - |
 
 ## 🏫 Education & Activities
 
 | Category | Description | Period |
 | :--- | :--- | :---: |
-| 🎓 **Gwangju University** | 사이버보안경찰학과 | 2027.02 졸업예정 |
-| 🚀 **Sk Shieldus Rookies 34** | 생성형AI 활용 사이버보안 전문인력 양성과정 | 2026.07 ~ 진행중 |
-
----
+| 🎓 Gwangju University | 사이버보안경찰학과 | 2027.02 졸업예정 |
+| 🚀 Sk Shieldus Rookies 34 | 생성형AI 활용 사이버보안 전문인력 양성과정 | 2026.07 ~ 진행중 |
 
 ## 📊 GitHub Stats
 
-![Rookie-W-hacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rookie-W-hacker&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-W-hacker&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rookie-W-hacker&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-W-hacker&layout=compact&theme=dark" />
+</p>

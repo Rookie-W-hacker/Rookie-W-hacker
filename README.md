@@ -46,7 +46,7 @@ Copy the encrypted message below:
 
 | Title | Summary | Tech Stack | View |
 | :--- | :--- | :---: | :---: |
-| [분석/연구] 분석 제목 작성 | 연구하거나 분석한 주요 내용을 기술하세요. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | [📝](#) |
+| - | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | [📝](#) |
 
 ---
 
@@ -54,8 +54,8 @@ Copy the encrypted message below:
 
 | Category | Description | Period |
 | :--- | :--- | :---: |
-| 🎓 **OO대학교** | 정보보안학과 / 전공 명칭 | 2026.03 ~ 재학 중 |
-| 🚀 **OO 동아리** | 동아리 이름 및 간단한 활동 내역 | 2025.03 ~ 2025.12 |
+| 🎓 **Gwangju University** | 사이버보안경찰학과 | 졸업예정 2027.02 |
+| 🚀 **Sk Shieldus Rookies 34** | 생성형AI 활용 사이버보안 전문인력 양성과정 (교육) | 2026.07 ~ 진행중 |
 
 ---
 

@@ -38,7 +38,7 @@ Copy the encrypted message below:
 | Project Name | Short Summary | Tech Stack | Code | View |
 | :--- | :--- | :---: | :---: | :---: |
 | 🎮 파일업로드 실시간 모니터링 및 자동화 차단 | 파일업로드 실시간으로 모니터링하고 악의적인 확장자 (exe, php) 등 허용되지 않는 확장자 검증하여 자동화 차단 시스템 개발하게 된 계기 : 파일업로드에 악의적인 파일을 업로드 하여 데이터를 추출할려는 것을 방지하기 위함 | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">| [📁](https://github.com/Rookie-W-hacker/File-upload-monitoring-and-automated-blocking) | [📝](#) |
-| 🚩 Reflected XSS  | python으로 제작한 Reflected XSS 자동화 스크립트 튤 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/Reflected-XSS) | [📝](#) |
+| 🚩 Reflected XSS  | python으로 개발한 Reflected XSS 자동화 스크립트 튤 개발 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/Reflected-XSS) | [📝](#) |
 
 ---
 

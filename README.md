@@ -57,6 +57,5 @@ Copy the encrypted message below:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rookie-W-hacker&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rookie-W-hacker&layout=compact&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rookie-W-hacker&theme=dark" />
 </p>

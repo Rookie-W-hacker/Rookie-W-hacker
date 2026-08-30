@@ -22,8 +22,7 @@ Copy the encrypted message below:
 
 | Date | Award Name | Team | Item | Result | News | Evidence |
 | :---: | :--- | :---: | :--- | :---: | :---: | :---: |
-| 2026.06 | 취약점 식별 유공 | 개인 | 취약점진단/모의해킹 | 표창장 | [📰](<img width="3024" height="4032" alt="Awards" src="https://github.com/user-attachments/assets/8659eabb-8efe-4533-84a7-67377227c10a" width="200" />
-) | 📄 |
+| 2026.06 | 취약점 식별 유공 | 개인 | 취약점진단/모의해킹 | 표창장 | [📰](https://github.com/user-attachments/assets/8659eabb-8efe-4533-84a7-67377227c) | 📄 |
 
 
 ---

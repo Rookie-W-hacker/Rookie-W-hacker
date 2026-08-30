@@ -3,9 +3,9 @@
 
 # 🔓 Encrypted Message
 Copy the encrypted message below:
-> `Your encrypted message or introductory code goes here`
+> `C5Jv7GKSCpJ/62O/C51zJwqec+t6swqNX+pyswu8QycLmWLsbI8MjEMpx+tHkgy0U+xUswuSby8KklPqZb7OJwy3V+t9tw20RycLmW/rbbIMjG/sbKPJJwunZ+xog8fqcrMKhV4nC5l/6nKzC6Bn7VSnx+tssQuRU+t9k8Ymx+p+kwuaU+prgg==`
 
-💡 *Hint: Add a subtle hint or message for visitors.*
+💡 *Hint: Base46 - XOR:rookie707*
 
 ---
 
@@ -32,7 +32,7 @@ Copy the encrypted message below:
 ### 🏅 Competition Projects
 | Project Name | Short Summary | Tech Stack | Code | View |
 | :--- | :--- | :---: | :---: | :---: |
-| 🚜 프로젝트 제목 1 | 프로젝트에 대한 간단한 설명을 입력하세요. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | [📁](#) | [📝](#) |
+| 🚜 Sk Shieldus Rookies Project : 정적 분석 기반 악성코드 위험도 추론 및 배치 평가 모듈 | 협업으로 진행된 프로젝트 글쓴이 맡은 단계는 2단계 ML 모델  | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | [📁]([#](https://github.com/Rookie-W-hacker/SK_Shieldus_project1/blob/main/src/ml/predict.py) | [📝](#) |
 | 🏎️ 프로젝트 제목 2 | 핵심 기능 및 구현 내용을 적어주세요. | <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> | [📁](#) | [📝](#) |
 
 ### 💡 General Projects
@@ -46,7 +46,7 @@ Copy the encrypted message below:
 
 | Title | Summary | Tech Stack | View |
 | :--- | :--- | :---: | :---: |
-| - | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | [📝](#) |
+| - | <img src=> | [📝](#) |
 
 ---
 
@@ -55,7 +55,7 @@ Copy the encrypted message below:
 | Category | Description | Period |
 | :--- | :--- | :---: |
 | 🎓 **Gwangju University** | 사이버보안경찰학과 | 2027.02 졸업예정 |
-| 🚀 **Sk Shieldus Rookies 34** | 생성형AI 활용 사이버보안 전문인력 양성과정 (교육) | 2026.07 ~ 진행중 |
+| 🚀 **Sk Shieldus Rookies 34** | 생성형AI 활용 사이버보안 전문인력 양성과정 | 2026.07 ~ 진행중 |
 
 ---
 

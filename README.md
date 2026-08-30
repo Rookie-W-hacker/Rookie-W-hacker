@@ -24,7 +24,7 @@ Copy the encrypted message below:
 ## 🏆 Awards
 
 | Date | Award Name | Team | Item | Result | Evidence |
-| :---: | :--- | :---: | :--- | :---: | :---: | :---: |
+| :---: | :--- | :---: | :--- | :---: | :---: |
 | 2026.06 | 취약점 식별 유공 | 개인 | 취약점진단/모의해킹 | 표창장 | [📄](https://github.com/user-attachments/assets/8659eabb-8efe-4533-84a7-67377227c10a) |
 
 

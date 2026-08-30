@@ -1,6 +1,3 @@
-<img width="800" height="1130" alt="certificate_bg" src="https://github.com/user-attachments/assets/8c5d3a3f-978a-4770-8518-bc968ada6a8a" /><!-- 헤더 타이틀 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Rookie's%20Profile!&fontSize=50" width="100%">
-
 # 🔓 Encrypted Message
 Copy the encrypted message below:
 > `C5Jv7GKSCpJ/62O/C51zJwqec+t6swqNX+pyswu8QycLmWLsbI8MjEMpx+tHkgy0U+xUswuSby8KklPqZb7OJwy3V+t9tw20RycLmW/rbbIMjG/sbKPJJwunZ+xog8fqcrMKhV4nC5l/6nKzC6Bn7VSnx+tssQuRU+t9k8Ymx+p+kwuaU+prgg==`

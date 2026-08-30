@@ -1,5 +1,5 @@
 <!-- 헤더 타이틀 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome to Rookie's Profile!&fontSize=50" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Rookie's%20Profile!&fontSize=50" width="100%">
 
 # 🔓 Encrypted Message
 Copy the encrypted message below:

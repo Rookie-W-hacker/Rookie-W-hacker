@@ -1,4 +1,4 @@
-<!-- 헤더 타이틀 Banner -->
+<img width="800" height="1130" alt="certificate_bg" src="https://github.com/user-attachments/assets/8c5d3a3f-978a-4770-8518-bc968ada6a8a" /><!-- 헤더 타이틀 Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Rookie's%20Profile!&fontSize=50" width="100%">
 
 # 🔓 Encrypted Message
@@ -26,6 +26,15 @@ Copy the encrypted message below:
 | Date | Award Name | Team | Item | Result | Evidence |
 | :---: | :--- | :---: | :--- | :---: | :---: |
 | 2026.06 | 취약점 식별 유공 | 개인 | 취약점진단/모의해킹 | 표창장 | [📄](https://github.com/user-attachments/assets/8659eabb-8efe-4533-84a7-67377227c10a) |
+
+---
+
+## 📜 Certifications
+
+| Date | Certification | Issuer | Badge | Evidence |
+| :---: | :--- | :---: | :---: | :---: |
+| 2025.10 | 네트워크 관리사 2급 | ICQA | <img src="https://img.shields.io/badge/Network-00599C?style=flat&logo=cplusplus&logoColor=white"> | [📄](<img width="800" height="1130" alt="certificate_bg" src="https://github.com/user-attachments/assets/2b47f73f-69b6-463a-b5d0-702b519cce68" />
+) |
 
 
 ---

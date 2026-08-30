@@ -32,8 +32,7 @@ Copy the encrypted message below:
 ### 🏅 Competition Projects
 | Project Name | Short Summary | Tech Stack | Code | View |
 | :--- | :--- | :---: | :---: | :---: |
-| 🚜 Sk Shieldus Rookies Project : 정적 분석 기반 악성코드 위험도 추론 및 배치 평가 모듈 | 협업으로 진행된 프로젝트 글쓴이 맡은 단계는 2단계 ML 모델  | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | [📁]([#](https://github.com/Rookie-W-hacker/SK_Shieldus_project1/blob/main/src/ml/predict.py) | [📝](#) |
-| 🏎️ 프로젝트 제목 2 | 핵심 기능 및 구현 내용을 적어주세요. | <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"> | [📁](#) | [📝](#) |
+| 🚜 Sk Shieldus Rookies Project : 정적 분석 기반 악성코드 위험도 추론 및 배치 평가 모듈 | 협업으로 진행된 프로젝트 글쓴이 맡은 단계는 2단계 ML 모델  | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/SK_Shieldus_project1/blob/main/src/ml/predict.py) | [📝](#) |
 
 ### 💡 General Projects
 | Project Name | Short Summary | Tech Stack | Code | View |

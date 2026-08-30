@@ -54,7 +54,7 @@ Copy the encrypted message below:
 
 | Category | Description | Period |
 | :--- | :--- | :---: |
-| 🎓 **Gwangju University** | 사이버보안경찰학과 | 졸업예정 2027.02 |
+| 🎓 **Gwangju University** | 사이버보안경찰학과 | 2027.02 졸업예정 |
 | 🚀 **Sk Shieldus Rookies 34** | 생성형AI 활용 사이버보안 전문인력 양성과정 (교육) | 2026.07 ~ 진행중 |
 
 ---

@@ -63,6 +63,6 @@ Copy the encrypted message below:
 
 <div align="center">
   <!-- username= 본인 GitHub ID로 변경하세요 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=W-key77&show_icons=true&theme=dark" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W-key77ID&layout=compact&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rookie-W-hacker&show_icons=true&theme=dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookie-W-hacker&layout=compact&theme=dark" height="150">
 </div>

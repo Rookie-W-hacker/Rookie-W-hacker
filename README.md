@@ -30,7 +30,7 @@ Copy the encrypted message below:
 
 | Date | Certification | Issuer | Badge | Evidence |
 | :---: | :--- | :---: | :---: | :---: |
-| 2025.10 | 네트워크 관리사 2급 | ICQA | <img src="https://img.shields.io/badge/Network-00599C?style=flat&logo=cplusplus&logoColor=white"> | [📄](https://github.com/user-attachments/assets/e6f17b30-fbd9-41fe-90df-823253c96083) |
+| 2025.09 | 네트워크 관리사 2급 | ICQA | <img src="https://img.shields.io/badge/Network-00599C?style=flat&logo=cplusplus&logoColor=white"> | [📄](https://github.com/user-attachments/assets/e6f17b30-fbd9-41fe-90df-823253c96083) |
 
 
 

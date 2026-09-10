@@ -58,7 +58,7 @@ Copy the encrypted message below:
 
 | Title | Summary | Tech Stack | View |
 | :--- | :--- | :---: | :---: |
-| 🛡️ REMnux MCP Server Windows Host Command Injection | Windows Docker 파일 전송 경로의 호스트 OS 명령어 주입 취약점을 발견하고 책임 있게 제보했습니다. 유지관리자가 재현 후 v0.1.73에서 수정했으며 공개 패치 커밋에 제보자로 크레딧했습니다. CVE 발급 대기 중입니다. | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> | [🔗 Fix & Credit](https://github.com/REMnux/remnux-mcp-server/commit/f541995a5f6396aff716c3b98e9c2d9920a5a69b) |
+| 🛡️ REMnux MCP Server Windows Host Command Injection | Windows Docker 파일 전송 경로의 호스트 OS 명령어 주입 취약점을 발견하고 책임 있게 제보했습니다. 유지관리자가 재현 후 v0.1.73에서 수정했으며 공개 패치 커밋에 제보자로 크레딧했습니다. | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"> | [🔗 Fix & Credit](https://github.com/REMnux/remnux-mcp-server/commit/f541995a5f6396aff716c3b98e9c2d9920a5a69b) |
 
 ## 🏫 Education & Activities
 

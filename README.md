@@ -44,7 +44,7 @@ Copy the encrypted message below:
 ### 🏅 Competition Projects
 | Project Name | Short Summary | Tech Stack | Code | View |
 | :--- | :--- | :---: | :---: | :---: |
-| 🚜 Sk Shieldus Rookies : 파일업로드 정적 분석 기반 악성코드 위험도 추론 및 배치 평가 모듈 프로젝트 | 협업으로 진행된 프로젝트 Rookie Part. 2단계 ML 모델 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/SK_Shieldus_project1/blob/main/src/ml/predict.py) | [📝](#) |
+| 🚜 Sk Shieldus Rookies : 파일업로드 정적 분석 기반 악성코드 위험도 추론 및 배치 평가 모듈 프로젝트 | 협업으로 진행된 프로젝트 Rookie Part. 2단계 ML 모델 | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Machine--Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/SK_Shieldus_project1/blob/main/src/ml/predict.py) |
 | 🛡️ SK Shieldus Rookies : OWASP Juice Shop 모의해킹 프로젝트 | OWASP Juice Shop 가상환경을 대상으로 팀 협업 모의해킹을 수행하고, 웹 애플리케이션의 주요 취약점을 식별·분석하여 공격 시나리오, 영향도 및 보안 조치 방안을 보고서로 작성 | <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white"> <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white"> | [📁](https://github.com/Rookie-W-hacker/SK_Shieldus_Rookies34_Penetration-Testing-Project/tree/main) | |
 
 ### 💡 General Projects
